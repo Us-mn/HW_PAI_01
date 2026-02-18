@@ -15,9 +15,9 @@ def get_average_score(filename):
         next(reader) # Skip header
         
         for row in reader:
-            pass
+            pass # replace pass with code
 
-    return sum(scores) / len(scores) if scores else 0.0
+    return pass # replace pass with code
 
 if __name__ == "__main__":
     print(f"Average: {get_average_score('data.csv')}")
