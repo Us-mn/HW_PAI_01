@@ -1,0 +1,6 @@
+id,name,score,attendance
+1,Alice,85,90
+2,Bob,42,75
+3,Charlie,invalid,80
+4,David,95,95
+5,Eve,60,70
